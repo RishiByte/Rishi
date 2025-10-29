@@ -6,3 +6,5 @@ Python
 Html
 CSS
 learning more
+
+Trying to contribute more in open source everyday and also trying to maintain streak
